@@ -1,8 +1,27 @@
+.head{
+  margin-left: 30%;
+}
+
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+}
+.child {
+  flex: 1 0 30%;
+  margin: 5px;
+  height: 100px;
+}
+
+body {
+    background-image: url("piza.jpg");
+  }
+
+
 .App {
   text-align: center;
 }
 
-.App-logo {
+.logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
 }

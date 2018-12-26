@@ -1,7 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import logo from './piza.jpg';
 import App from './App';
+import Header from './Header';
+import FormElement from './FormElement';
+import FoodItemList from './FoodItemList';
+import Item from './Item';
+
+
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
