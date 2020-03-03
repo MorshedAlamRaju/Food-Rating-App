@@ -1,3 +1,5 @@
+![](https://github.com/MorshedAlamRaju/food-rating-app/blob/master/food-rating-app.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
